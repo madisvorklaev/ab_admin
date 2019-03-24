@@ -1,0 +1,55 @@
+operaator tellimus_tarnijale s
+operaator isik s u i
+operaator isiku_liik s u i
+operaator kaubagrupp s u i
+operaator tarnija_tellimuse_rida s
+operaator tarne s
+operaator arve s
+operaator kaup s u i
+operaator kauba_liikumine s
+kaubatundja tellimus_tarnijale s i u
+kaubatundja isik s i u
+kaubatundja isiku_liik s i u
+kaubatundja kaubagrupp s i u
+kaubatundja tarnija_tellimuse_rida s i u
+kaubatundja tarne s i u
+kaubatundja arve s
+kaubatundja kaup s i u
+kaubatundja kauba_liikumine s i u
+tellija tellimus_tarnijale 
+tellija isik s i u
+tellija isiku_liik s
+tellija kaubagrupp s
+tellija tarnija_tellimuse_rida 
+tellija tarne s
+tellija arve s
+tellija kaup s
+tellija kauba_liikumine 
+komplekteerija tellimus_tarnijale s
+komplekteerija isik s
+komplekteerija isiku_liik s
+komplekteerija kaubagrupp s
+komplekteerija tarnija_tellimuse_rida s
+komplekteerija tarne s
+komplekteerija arve s
+komplekteerija kaup s
+komplekteerija kauba_liikumine s i u
+laohoidja tellimus_tarnijale s
+laohoidja isik s
+laohoidja isiku_liik s
+laohoidja kaubagrupp s i u
+laohoidja tarnija_tellimuse_rida s
+laohoidja tarne s u
+laohoidja arve 
+laohoidja kaup s i u
+laohoidja kauba_liikumine s i u
+raamatupidaja tellimus_tarnijale s
+raamatupidaja isik s
+raamatupidaja isiku_liik s
+raamatupidaja kaubagrupp 
+raamatupidaja tarnija_tellimuse_rida 
+raamatupidaja tarne 
+raamatupidaja arve s i u
+raamatupidaja kaup s
+raamatupidaja kauba_liikumine s
+
