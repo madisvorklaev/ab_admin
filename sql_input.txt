@@ -1,9 +1,0 @@
-operaator,tellimus_tarnijale,s
-operaator,isik,s,u,i
-operaator,isiku_liik,s,u,i
-operaator,kaubagrupp,s,u,i
-operaator,tarnija_tellimuse_rida,s
-operaator,tarne,s
-operaator,arve,s
-operaator,kaup,s,u,i
-operaator,kauba_liikumine,s
